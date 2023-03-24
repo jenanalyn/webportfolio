@@ -1,0 +1,48 @@
+/*CSS FONTS
+font-family: 'Amatic SC', cursive;
+font-family: 'Bona Nova', serif;
+font-family: 'Farsan', cursive;
+font-family: 'Labrada', serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Playball', cursive;
+font-family: 'Qwigley', cursive;*/
+
+/*CSS RESET*/
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+/*Navbar*/
+.navbar-brand {
+    font-family: 'Qwigley', cursive;
+}
+
+/*Main Section*/
+
+#main {
+/*to change bg image in the future*/
+    background-image: url(./images/flow.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%vh;
+    width: 100%vw;
+    font-family: 'Bona Nova', serif;
+}
+
+#aboutme {
+    font-family: 'Bona Nova', serif;
+}
+
+#projects {
+    font-family: 'Bona Nova', serif;
+}
+
+#get-in-touch {
+    text-align: center;
+    font-family: 'Bona Nova', serif;
+}
+
